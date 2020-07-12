@@ -9,7 +9,7 @@ A .xml file represents a document pair contains the list of parallel sentences. 
 ## Citation
 This corpus is a part of our work namely "*Automatic Indonesian-English Parallel Corpus Construction from Wikipedia using Lexical Similarity*". This work is currently under a review to be published into a conference paper.
 
-**Damar Fajar Tanjung, Mei Silviana Saputri, Rahmad Mahendra, Evi Yulianti and Mirna Adriani, "*Automatic Indonesian-English Parallel Corpus Construction from Wikipedia using Lexical Similarity*", (Unpublish). 2019.**
+**Damar Fajar Tanjung, Mei Silviana Saputri, Rahmad Mahendra, Evi Yulianti and Mirna Adriani, "*Automatic Indonesian-English Parallel Corpus Construction from Wikipedia using Lexical Similarity*", (Unpublish). 2020.**
 
 ## License
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
